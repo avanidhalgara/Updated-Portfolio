@@ -1,0 +1,24 @@
+/* background color for navbar */
+.container-fluid{
+    background-color: #fa7921;
+}
+
+/* margin for navbar */
+.info a {
+    margin: 10px;
+    color: #780116;
+   text-shadow: 1px 1px black;
+}
+/* margin for images to navbar */
+.container
+{
+    margin-top: 40px;
+ 
+    
+}
+/* margin for navbar and text align */
+.text-align a{
+    margin-bottom: 10px;
+    text-align: right;
+
+}

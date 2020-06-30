@@ -1,0 +1,37 @@
+
+/* margin for navbar */
+.info a {
+    margin: 10px;
+    color: #780116;
+   text-shadow: 1px 1px black;
+}
+/* style font contact */
+.font-color{
+    color: #0d0630;
+    
+}
+/* background color for navbar */
+.container-fluid{
+    background-color: #fa7921;
+}
+/* style form */
+.style-form
+{
+color: #7a183a;
+}
+/* style footer
+.footer
+{
+   background-color:#fa7921; ; 
+} */
+
+
+/* style for submit button */
+.buttons{
+    background-color: #fa7921 ;
+    color: #780116;
+
+}
+.buttons :hover{
+    text-shadow: 1px 1px black;
+}
